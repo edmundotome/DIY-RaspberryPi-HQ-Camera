@@ -10,8 +10,7 @@ The aim of this proyect is provide to students, scientists and educational insti
 | ------------ | ------------ | ------------ |
 | ![0c921f93-a883-49fc-8c67-8d84236d9e79](https://user-images.githubusercontent.com/37748958/84613440-cc9f5200-ae88-11ea-8484-8c851eb2d268.jpeg) | RaspberryPi Camera v1.3  | https://www.amazon.com.mx/Raspberry-Camera-Adjustable-focus-Vision-Shipping/dp/B07TMXWBQD/ref=sr_1_8?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=39GEITXYVGQVK&dchild=1&keywords=raspberry+pi+camara&qid=1592110325&sprefix=rasp%2Caps%2C266&sr=8-8  |
 | ![9e4bbe9a-b920-4e13-9ee4-2ef0ffb11d5f](https://user-images.githubusercontent.com/37748958/84613477-dd4fc800-ae88-11ea-9230-ee59f5e6dceb.jpeg)| Lens Macro + 0.67X Wide Angular |https://www.amazon.com.mx/PUBAMALL-universal-tel%C3%A9fono-tel%C3%A9fonos-tabletas/dp/B077Y8QLWL/ref=sr_1_16?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=lentes+celular&qid=1592110828&sr=8-16  |
-| ![db3a75e4-31f8-4737-b465-e387dacaffd5](https://user-images.githubusercontent.com/37748958/84613504-f3f61f00-ae88-11ea-9811-2b59193ce0c3.jpeg)
- | Leds (x8)  | your favorite electronic store  |
+| ![db3a75e4-31f8-4737-b465-e387dacaffd5](https://user-images.githubusercontent.com/37748958/84613504-f3f61f00-ae88-11ea-9811-2b59193ce0c3.jpeg)| Leds (x8)  | your favorite electronic store  |
 | ![resistencia-electrica-220-ohm-14-w](https://user-images.githubusercontent.com/37748958/84613550-0b350c80-ae89-11ea-8642-8f68f795401f.jpg) | 220R Resistors (x8)  | your favorite electronic store  |
 | ![863c0480-ea92-4929-9e0c-86c468650a00](https://user-images.githubusercontent.com/37748958/84613568-2011a000-ae89-11ea-969b-0a3e9f21c47c.jpeg) | Cupper Board   | your favorite electronic store  |
 | ![SoporteLenteDerechaN](https://user-images.githubusercontent.com/37748958/84613593-33247000-ae89-11ea-9ed8-5c1ebe741762.jpeg) | SoporteLenteDerechaN  | https://github.com/edmundotome/DIY-RaspberryPi-HQ-Camera/blob/master/STL%20files/SoporteLenteDerechaN.stl  |
@@ -26,9 +25,9 @@ The aim of this proyect is provide to students, scientists and educational insti
 
 
 
-##**Comparison Before/After upgrade**
+## **Comparison Before/After upgrade**
 
-###**Pictures taken before the upgrade**
+### **Pictures taken before the upgrade**
 
 ![picttakb1](https://user-images.githubusercontent.com/37748958/84611100-6d3e4380-ae82-11ea-913a-96c822487b8e.jpeg)
 
@@ -38,7 +37,7 @@ The aim of this proyect is provide to students, scientists and educational insti
 
 ![picttakb4](https://user-images.githubusercontent.com/37748958/84611205-be4e3780-ae82-11ea-8d82-56aa24a10313.jpeg)
 
-###**Pictures taken after the upgrade**
+### **Pictures taken after the upgrade**
 
 ![picttaka1](https://user-images.githubusercontent.com/37748958/84613848-f5741700-ae89-11ea-97cd-0e4004bbd6c1.jpeg)
 
