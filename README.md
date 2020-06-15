@@ -18,7 +18,7 @@ The aim of this proyect is provide to students, scientists and educational insti
 
 ## **Assembling Tips**
 
-- After printed the circuit in your copper board and before weld the electronic components, you should remove the center square printed in the board (try using a tool like a Dremel).
+- After printing the circuit in your copper board and before weld the electronic components, you should remove the center square printed in the board (try using a tool like a Dremel).
 - This 2.5x2.5 cms square in the center corresponds to the printed parts union.
 
 ![assepic](https://user-images.githubusercontent.com/37748958/84614016-729f8c00-ae8a-11ea-993e-2a4f3b5b0297.jpeg)
