@@ -1,6 +1,6 @@
 # **DIY-RaspberryPi-HQ-Camera**
 
-The aim of this proyect is provide to students, scientists and educational institutes an instrument to photograph biological organisms (as i did) or any other object difficult to analyze with the naked eye.
+The objetive of this proyect is to provide students, scientists and educational institutes an instrument to photograph biological organisms (as I did) or any other object difficult to appreciate with the naked eye.
 
 ![finpic](https://user-images.githubusercontent.com/37748958/84614286-3fa9c800-ae8b-11ea-95bc-6e13d1f164ca.jpeg)
 
